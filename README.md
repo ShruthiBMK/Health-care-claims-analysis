@@ -39,3 +39,5 @@ The dataset represents anonymized healthcare claims data and includes:
 - **Power BI**: Data modeling, DAX measures, dashboard creation
 
 - **DAX**: Time intelligence, KPIs, calculated measures
+## Live Dashboard 
+ [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMmNjMGRhN2EtN2Q1Ni00ZDMxLWFiMzQtNmM3ZGE5Njc1OWUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
