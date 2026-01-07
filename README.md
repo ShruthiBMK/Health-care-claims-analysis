@@ -41,3 +41,8 @@ The dataset represents anonymized healthcare claims data and includes:
 - **DAX**: Time intelligence, KPIs, calculated measures
 ## Live Dashboard 
  [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMmNjMGRhN2EtN2Q1Ni00ZDMxLWFiMzQtNmM3ZGE5Njc1OWUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+ ### Key Insights
+ - The analysis shows that Medicare consistently exhibits higher denial rates for chronic and mental health diagnoses, particularly depressive episodes and metabolic disorders. 
+ - This suggests stricter medical necessity and documentation requirements compared to commercial payers. Acute conditions, such as respiratory infections and UTIs, have lower denial rates across payers, indicating clearer    billing standards.
+ - These insights highlight opportunities for improving documentation and reducing denials for high-risk diagnosis categories.
